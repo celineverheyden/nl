@@ -480,6 +480,10 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #2969b0;
 }
+#header1-b .mbr-section-title {
+  text-align: center;
+  color: #000000;
+}
 #menu-2 .hide-buttons .nav-btn {
   display: none !important;
 }
