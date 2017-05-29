@@ -146,8 +146,8 @@
           ],
           "_name": "gallery4",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": 0,
+            "paddingTop": "4",
+            "paddingBottom": "1",
             "images": [
               {
                 "tags": "Animated",
@@ -157,11 +157,61 @@
                 "thumb": "@PROJECT_PATH@/assets/images/analoog085-2000x2847-800x1138.jpg",
                 "image": "@PROJECT_PATH@/assets/images/analoog085-2000x2847.jpg",
                 "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/analoog080-2000x2746-800x1098.jpg",
+                "image": "@PROJECT_PATH@/assets/images/analoog080-2000x2746.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/analoog087-2000x2876-800x1150.jpg",
+                "image": "@PROJECT_PATH@/assets/images/analoog087-2000x2876.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/analoog094-2000x2963-800x1185.jpg",
+                "image": "@PROJECT_PATH@/assets/images/analoog094-2000x2963.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/analoog092-2000x2963-800x1185.jpg",
+                "image": "@PROJECT_PATH@/assets/images/analoog092-2000x2963.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/analoog095-2000x2989-800x1195.jpg",
+                "image": "@PROJECT_PATH@/assets/images/analoog095-2000x2989.jpg",
+                "caption": "Type caption here",
                 "active": true
               }
             ],
-            "spacing": 1,
-            "showText": false,
+            "spacing": "1",
+            "showText": true,
             "filter": false,
             "bgColor": "fff",
             "filterBgColor": false,
