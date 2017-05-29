@@ -1,7 +1,7 @@
 {
   "settings": {
-    "currentPage": "index.html",
-    "name": "My Site",
+    "currentPage": "over.html",
+    "name": "CELINE VERHEYDEN",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -23,7 +23,10 @@
     },
     "versionFirst": "3.9.0",
     "uniqCompNum": 21,
-    "versionPublish": "3.12.1"
+    "versionPublish": "3.12.1",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "UA-100127467-1"
   },
   "pages": {
     "werk.html": {
@@ -145,6 +148,12 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center",
+              "color": "#000000"
+            }
+          },
           "_anchor": "header1-b",
           "_params": {
             "parallax": true,
@@ -167,13 +176,7 @@
           },
           "title": "WERK",
           "text": "",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"TEKENINGEN.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TEKENINGEN</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"PRINTS.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PRINT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"KLEUR.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">KLEUR</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "center",
-              "color": "#000000"
-            }
-          }
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"TEKENINGEN.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TEKENINGEN</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"PRINTS.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PRINT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"KLEUR.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">KLEUR</a>"
         }
       ]
     },
@@ -192,10 +195,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#2969b0"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#2969b0"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -216,7 +219,7 @@
               "background": "#282828"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#2969b0",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -229,7 +232,7 @@
               "color": "#c0a375!important"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#2969b0"
             }
           },
           "_name": "menu",
@@ -249,7 +252,6 @@
           },
           "logo": {
             "image": {
-              "active": true,
               "src": "@THEME_PATH@/components/_images/logo.png",
               "height": 128,
               "alt": "Mobirise",
@@ -257,8 +259,14 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
+              "linkInNewWindow": false,
+              "name": "home",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": 0,
+              "newWindow": false,
+              "color": "#2c82c9",
+              "active": true
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
@@ -290,10 +298,10 @@
           "_params": {
             "imageSize": 50,
             "parallax": true,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -304,14 +312,18 @@
             "inverse": false,
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
-            "showArrow": true
+            "showButtons": false,
+            "showArrow": false
           },
           "media": {
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+              "src": "@PROJECT_PATH@/assets/images/plus-1400x1000.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -325,9 +337,17 @@
               "size": 250
             }
           },
-          "title": "INTRO WITH IMAGE",
-          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "title": "OVER &nbsp;HET NAIVE KIND",
+          "text": "&nbsp;Céline, Het meisje dat &nbsp;alles rozer kleurt dan de realiteit eigenlijk is.<br>Al vijf jaar vertoeft deze studente in de gebouwen van<br> LUCA SCHOOL OF ARTS te Gent.<br>Tekenen is voor haar een manier om al haar emoties te uiten.<br>Beelden zijn een houvast geworden aan de up's &amp;down's . <br>&nbsp;Ze geven een plaats aan de gebeurtenissen <br>van haar alledaagse omgeving.<br>Graag zou ze terug gaan naar de wereld van het kind,&nbsp;<br>de wereld zonder zorgen over morgen.<br><br><br>&nbsp; &nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#2969b0"
+            },
+            ".mbr-section-text": {
+              "color": "#2969b0"
+            }
+          }
         }
       ]
     },
