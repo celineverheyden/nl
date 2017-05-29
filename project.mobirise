@@ -167,7 +167,7 @@
           },
           "title": "WERK",
           "text": "",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"TEKENINGEN.html\" data-toolbar=\"-mbrBtnMove\">TEKENINGEN</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"PRINTS.html\" data-toolbar=\"-mbrBtnMove\">PRINT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"KLEUR.html\" data-toolbar=\"-mbrBtnMove\">KLEUR</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"TEKENINGEN.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TEKENINGEN</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"PRINTS.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PRINT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"KLEUR.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">KLEUR</a>",
           "_styles": {
             ".mbr-section-title": {
               "text-align": "center",
