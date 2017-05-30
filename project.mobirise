@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "CONTACT E.html",
+    "currentPage": "DRAWINGS.html",
     "name": "CELINE VERHEYDEN",
     "theme": {
       "name": "mobirise3",
@@ -2046,7 +2046,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/analoog087-2000x2876-800x1150.jpg",
                 "image": "@PROJECT_PATH@/assets/images/analoog087-2000x2876.jpg",
-                "caption": "SLAPER<br>A5&nbsp;<br>POTLOOD &amp; PAPIER<br>2017",
+                "caption": "SLEEPER<br>A5&nbsp;<br>PENCIL ON PAPER<br>2017",
                 "active": true
               },
               {
@@ -2056,7 +2056,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/analoog092-2000x2963-800x1185.jpg",
                 "image": "@PROJECT_PATH@/assets/images/analoog092-2000x2963.jpg",
-                "caption": "MENSEN<br>A5 <br>POTLOOD &amp; PAPIER<br>2017",
+                "caption": "PEOPLE<br>A5 <br>PENCIL ON PAPER<br>2017",
                 "active": false
               },
               {
@@ -2066,7 +2066,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/analoog094-2000x2963-800x1185.jpg",
                 "image": "@PROJECT_PATH@/assets/images/analoog094-2000x2963.jpg",
-                "caption": "BLAADJES<br>A5 <br>POTLOOD &amp; PAPIER<br>2017",
+                "caption": "BLAADJES<br>A5 <br>PENCIL ON PAPER<br>2017",
                 "active": false
               },
               {
@@ -2076,7 +2076,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/analoog095-2000x2989-800x1195.jpg",
                 "image": "@PROJECT_PATH@/assets/images/analoog095-2000x2989.jpg",
-                "caption": "NAALD &amp; DRAAD<br>A5 <br>POTLOOD &amp; PAPIER<br>2017<br>",
+                "caption": "NAALD &amp; DRAAD<br>A5 <br>PENCIL ON PAPER<br>2017<br>",
                 "active": false
               },
               {
@@ -2086,7 +2086,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/analoog097-2000x1828-800x731.jpg",
                 "image": "@PROJECT_PATH@/assets/images/analoog097-2000x1828.jpg",
-                "caption": "NAALD &amp; DRAAD 2<br>A5 <br>POTLOOD &amp; PAPIER<br>2017",
+                "caption": "NAALD &amp; DRAAD 2<br>A5 <br>PENCIL ON PAPER<br>2017",
                 "active": false
               },
               {
@@ -2096,7 +2096,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/analoog098-2000x2698-800x1079.jpg",
                 "image": "@PROJECT_PATH@/assets/images/analoog098-2000x2698.jpg",
-                "caption": "TOUT SEUL<br>A5 <br>POTLOOD &amp; PAPIER<br>2017<br>",
+                "caption": "TOUT SEUL<br>A5 <br>PENCIL ON PAPER<br>2017<br>",
                 "active": false
               },
               {
@@ -2106,7 +2106,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/analoog100-2000x3002-800x1200.jpg",
                 "image": "@PROJECT_PATH@/assets/images/analoog100-2000x3002.jpg",
-                "caption": "BLIND &amp; VIND<br>A5 <br>POTLOOD &amp; PAPIER<br>2017<br>",
+                "caption": "BLIND &amp; VIND<br>A5 <br>PENCIL ON PAPER<br>2017<br>",
                 "active": false
               }
             ],
