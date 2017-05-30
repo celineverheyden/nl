@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "PRINTS.html",
+    "currentPage": "KLEUR.html",
     "name": "CELINE VERHEYDEN",
     "theme": {
       "name": "mobirise3",
@@ -1013,7 +1013,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/happysad-2000x2698-800x1079.jpg",
                 "image": "@PROJECT_PATH@/assets/images/happysad-2000x2698.jpg",
-                "caption": "Type caption here",
+                "caption": "HOLD ON 1<br>A5<br>STIFT &amp; POTLOOD OP PAPIER<br>2017",
                 "active": false
               },
               {
@@ -1023,7 +1023,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mooi-2000x2922-800x1168.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mooi-2000x2922.jpg",
-                "caption": "Type caption here",
+                "caption": "HOLD ON 2<br>A5<br>STIFT &amp; POTLOOD OP PAPIER<br>2017",
                 "active": false
               },
               {
@@ -1033,7 +1033,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/scan-2000x2746-800x1098.jpg",
                 "image": "@PROJECT_PATH@/assets/images/scan-2000x2746.jpg",
-                "caption": "Type caption here",
+                "caption": "HOLD ON 3<br>A5<br>MIXED MEDIA<br>2017<br>",
                 "active": false
               },
               {
@@ -1043,7 +1043,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/rororro-2000x2839-800x1135.jpg",
                 "image": "@PROJECT_PATH@/assets/images/rororro-2000x2839.jpg",
-                "caption": "Type caption here",
+                "caption": "HOLD ON 4<br>A5<br>STIFT OP PAPIER<br>2017",
                 "active": false
               },
               {
@@ -1053,7 +1053,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/analoog107-2000x2755-800x1102.jpg",
                 "image": "@PROJECT_PATH@/assets/images/analoog107-2000x2755.jpg",
-                "caption": "Type caption here",
+                "caption": "AARDIG ZIJN HE<br>A5<br>STIFT &amp; POTLOOD OP PAPIER<br>2016",
                 "active": false
               },
               {
@@ -1063,7 +1063,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/scan-2000x2773-800x1109.jpg",
                 "image": "@PROJECT_PATH@/assets/images/scan-2000x2773.jpg",
-                "caption": "Type caption here",
+                "caption": "HOLD ON 5<br>A5<br>MIXED MEDIA<br>2017",
                 "active": false
               },
               {
@@ -1073,7 +1073,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gek-2000x2793-800x1117.jpg",
                 "image": "@PROJECT_PATH@/assets/images/gek-2000x2793.jpg",
-                "caption": "Type caption here",
+                "caption": "IK BEN (NIET) GEK PARDON<br>A5<br>POTLOOD OP PAPIER<br>2017",
                 "active": false
               },
               {
@@ -1083,7 +1083,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/scan-1-2000x2933-800x1173.jpg",
                 "image": "@PROJECT_PATH@/assets/images/scan-1-2000x2933.jpg",
-                "caption": "Type caption here",
+                "caption": "VITILIGO LEGS<br>A5<br>MIXED MEDIA<br>2016<br>",
                 "active": false
               },
               {
@@ -1093,7 +1093,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/analoog099-2000x2952-800x1180.jpg",
                 "image": "@PROJECT_PATH@/assets/images/analoog099-2000x2952.jpg",
-                "caption": "Type caption here",
+                "caption": "VAL NIET MIJN KLEINTJE<br>A5<br>MIXED MEDIA<br>2016",
                 "active": false
               },
               {
@@ -1103,7 +1103,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/scan-2-2000x2842-800x1136.jpg",
                 "image": "@PROJECT_PATH@/assets/images/scan-2-2000x2842.jpg",
-                "caption": "Type caption here",
+                "caption": "TIENES MIEDO<br>A5<br>STIFT &amp; POTLOOD OP PAPIER<br>2017",
                 "active": false
               },
               {
@@ -1113,7 +1113,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/analoog089-2000x2944-800x1177.jpg",
                 "image": "@PROJECT_PATH@/assets/images/analoog089-2000x2944.jpg",
-                "caption": "Type caption here",
+                "caption": "PINGU DROOM<br>A5<br>POTLOOD OP PAPIER<br>2016",
                 "active": false
               },
               {
@@ -1123,7 +1123,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/scan-3-2000x2803-800x1121.jpg",
                 "image": "@PROJECT_PATH@/assets/images/scan-3-2000x2803.jpg",
-                "caption": "Type caption here",
+                "caption": "LEGS LEGS LEGS<br>A5<br>ACRYL &amp; POTLOOD OP PAPIER<br>2017<br>",
                 "active": false
               },
               {
@@ -1133,7 +1133,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/karolus-2000x1415-800x566.jpg",
                 "image": "@PROJECT_PATH@/assets/images/karolus-2000x1415.jpg",
-                "caption": "Type caption here",
+                "caption": "KAROLUS<br>A4<br>STIFT &nbsp;OP PAPIER<br>2017",
                 "active": false
               },
               {
@@ -1143,7 +1143,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/plus-2000x1429-800x571.jpg",
                 "image": "@PROJECT_PATH@/assets/images/plus-2000x1429.jpg",
-                "caption": "Type caption here",
+                "caption": "PLUS &amp; MIN<br>A4<br>STIFT OP PAPIER<br>2017<br>",
                 "active": false
               },
               {
@@ -1153,7 +1153,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/konijn-2000x1388-800x555.jpg",
                 "image": "@PROJECT_PATH@/assets/images/konijn-2000x1388.jpg",
-                "caption": "Type caption here",
+                "caption": "LUISTERKONIJN<br>A4<br>STIFT &nbsp;OP PAPIER<br>2017",
                 "active": false
               },
               {
@@ -1163,7 +1163,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/stappeplanning-2000x1395-800x558.jpg",
                 "image": "@PROJECT_PATH@/assets/images/stappeplanning-2000x1395.jpg",
-                "caption": "Type caption here",
+                "caption": "HOLD ON STAPPENPLAN<br>A4<br>STIFT &amp; POTLOOD OP PAPIER<br>2017",
                 "active": true
               },
               {
@@ -1173,7 +1173,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/scan-2000x1437-800x574.jpg",
                 "image": "@PROJECT_PATH@/assets/images/scan-2000x1437.jpg",
-                "caption": "Type caption here",
+                "caption": "MA-CRO-BIO-KUT<br>A4<br>POTLOOD OP PAPIER<br>2016",
                 "active": false
               },
               {
@@ -1183,7 +1183,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/scan-4-2000x1473-800x589.jpg",
                 "image": "@PROJECT_PATH@/assets/images/scan-4-2000x1473.jpg",
-                "caption": "Type caption here",
+                "caption": "POSITIEVE BROEK<br>A4<br>MIXED MEDIA<br>2017",
                 "active": false
               },
               {
@@ -1193,7 +1193,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/arm-2000x1585-800x634.jpg",
                 "image": "@PROJECT_PATH@/assets/images/arm-2000x1585.jpg",
-                "caption": "Type caption here",
+                "caption": "TRUI&nbsp;<br>A4<br>KLEURPOTLOOD OP KALKPAPIER<br>2016<br>",
                 "active": false
               },
               {
@@ -1203,12 +1203,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/jasja-2000x1555-800x622.jpg",
                 "image": "@PROJECT_PATH@/assets/images/jasja-2000x1555.jpg",
-                "caption": "Type caption here",
+                "caption": "SLAPER<br>A4<br>KLEURPOTLOOD OP PAPIER<br>2017",
                 "active": false
               }
             ],
             "spacing": 1,
-            "showText": false,
+            "showText": true,
             "filter": false,
             "bgColor": "#efefef",
             "filterBgColor": true,
