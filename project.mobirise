@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "ABOUT.html",
+    "currentPage": "CONTACT E.html",
     "name": "CELINE VERHEYDEN",
     "theme": {
       "name": "mobirise3",
@@ -1804,7 +1804,7 @@
               "linkInNewWindow": false,
               "name": "home",
               "family": "MobiriseIcons",
-              "link": "index.html",
+              "link": "HOME.html",
               "size": 0,
               "color": "#2c82c9",
               "active": true,
@@ -2019,7 +2019,7 @@
               "linkInNewWindow": false,
               "name": "home",
               "family": "MobiriseIcons",
-              "link": "index.html",
+              "link": "HOME.html",
               "size": 0,
               "color": "#2c82c9",
               "active": true,
@@ -2274,7 +2274,7 @@
               "linkInNewWindow": false,
               "name": "home",
               "family": "MobiriseIcons",
-              "link": "index.html",
+              "link": "HOME.html",
               "size": 0,
               "color": "#2c82c9",
               "active": true,
@@ -2489,7 +2489,7 @@
               "linkInNewWindow": false,
               "name": "home",
               "family": "MobiriseIcons",
-              "link": "index.html",
+              "link": "HOME.html",
               "size": 0,
               "color": "#2c82c9",
               "active": true,
@@ -2909,22 +2909,22 @@
             "showSubTitle": true
           },
           "title": "CONTACT&nbsp;",
-          "subtitle": "ALS JE NOG VRAGEN HEBT VOOR CELINE, VUL DEZE DAN HIER IN , IK BEATWOORD DEZE MET VEEL PLEZIER &nbsp;:)",
+          "subtitle": "IF YOU HAVE ANY QUESTIONS FOR CELINE ,PLEAS ASK THEM HERE.",
           "form": {
             "action": "celine.verheyden@student.luca-arts.be",
             "alerts": {
-              "success": "Bedankt voor je vraag , deze wordt zo snel mogelijk beatwoord."
+              "success": "Thank's for you're question, I will respond ASAP."
             },
             "fields": {
               "name": {
                 "title": "Name",
                 "visible": true,
-                "customTitle": "naam"
+                "customTitle": "name"
               },
               "email": {
                 "title": "Email",
                 "visible": true,
-                "customTitle": "Emailadress"
+                "customTitle": "Email"
               },
               "phone": {
                 "title": "Phone",
@@ -2933,11 +2933,11 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "vraag/bericht"
+                "customTitle": "message"
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACTEER HET NAIVE KIND</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT ME</a>"
         },
         {
           "_tags": [
@@ -3308,7 +3308,7 @@
               "linkInNewWindow": false,
               "name": "home",
               "family": "MobiriseIcons",
-              "link": "index.html",
+              "link": "HOME.html",
               "size": 0,
               "color": "#2c82c9",
               "active": true,
