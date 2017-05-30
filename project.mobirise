@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "DRAWINGS.html",
+    "currentPage": "PRINTS EN.html",
     "name": "CELINE VERHEYDEN",
     "theme": {
       "name": "mobirise3",
@@ -2301,7 +2301,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/analoog055-2000x1191-800x476.jpg",
                 "image": "@PROJECT_PATH@/assets/images/analoog055-2000x1191.jpg",
-                "caption": "SLAPER 2.0<br>A3<br>FOTO<br>2016",
+                "caption": "SLAPER 2.0<br>A3<br>PHOTO<br>2016",
                 "active": false
               },
               {
@@ -2321,7 +2321,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/analoog085-2000x2847-800x1138.jpg",
                 "image": "@PROJECT_PATH@/assets/images/analoog085-2000x2847.jpg",
-                "caption": "ONZEKER<br>A3<br>FOTO<br>2016",
+                "caption": "ONZEKER<br>A3<br>PHOTO<br>2016",
                 "active": true
               }
             ],
