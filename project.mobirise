@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "contact.html",
+    "currentPage": "TEKENINGEN.html",
     "name": "CELINE VERHEYDEN",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.9.0",
-    "uniqCompNum": 24,
+    "uniqCompNum": 25,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -635,7 +635,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/analoog087-2000x2876-800x1150.jpg",
                 "image": "@PROJECT_PATH@/assets/images/analoog087-2000x2876.jpg",
-                "caption": "Type caption here",
+                "caption": "SLAPER<br>A5&nbsp;<br>POTLOOD &amp; PAPIER<br>2017",
                 "active": true
               },
               {
@@ -645,7 +645,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/analoog092-2000x2963-800x1185.jpg",
                 "image": "@PROJECT_PATH@/assets/images/analoog092-2000x2963.jpg",
-                "caption": "Type caption here",
+                "caption": "MENSEN<br>A5 <br>POTLOOD &amp; PAPIER<br>2017",
                 "active": false
               },
               {
@@ -655,7 +655,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/analoog094-2000x2963-800x1185.jpg",
                 "image": "@PROJECT_PATH@/assets/images/analoog094-2000x2963.jpg",
-                "caption": "Type caption here",
+                "caption": "BLAADJES<br>A5 <br>POTLOOD &amp; PAPIER<br>2017",
                 "active": false
               },
               {
@@ -665,7 +665,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/analoog095-2000x2989-800x1195.jpg",
                 "image": "@PROJECT_PATH@/assets/images/analoog095-2000x2989.jpg",
-                "caption": "Type caption here",
+                "caption": "NAALD &amp; DRAAD<br>A5 <br>POTLOOD &amp; PAPIER<br>2017<br>",
                 "active": false
               },
               {
@@ -675,7 +675,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/analoog097-2000x1828-800x731.jpg",
                 "image": "@PROJECT_PATH@/assets/images/analoog097-2000x1828.jpg",
-                "caption": "Type caption here",
+                "caption": "NAALD &amp; DRAAD 2<br>A5 <br>POTLOOD &amp; PAPIER<br>2017",
                 "active": false
               },
               {
@@ -685,7 +685,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/analoog098-2000x2698-800x1079.jpg",
                 "image": "@PROJECT_PATH@/assets/images/analoog098-2000x2698.jpg",
-                "caption": "Type caption here",
+                "caption": "TOUT SEUL<br>A5 <br>POTLOOD &amp; PAPIER<br>2017<br>",
                 "active": false
               },
               {
@@ -695,7 +695,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/analoog100-2000x3002-800x1200.jpg",
                 "image": "@PROJECT_PATH@/assets/images/analoog100-2000x3002.jpg",
-                "caption": "Type caption here",
+                "caption": "BLIND &amp; VIND<br>A5 <br>POTLOOD &amp; PAPIER<br>2017<br>",
                 "active": false
               }
             ],
@@ -1304,7 +1304,7 @@
               "name": "home",
               "family": "MobiriseIcons",
               "link": "index.html",
-              "size": 0,
+              "size": "60",
               "newWindow": false,
               "color": "#2c82c9",
               "active": true
