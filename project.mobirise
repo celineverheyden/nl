@@ -22,11 +22,13 @@
       }
     },
     "versionFirst": "3.9.0",
-    "uniqCompNum": 27,
+    "uniqCompNum": 47,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": "UA-100127467-1"
+    "google-analytics": "UA-100127467-1",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "werk.html": {
@@ -158,7 +160,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "showArrow": true,
+            "showArrow": false,
             "bgImage": "@PROJECT_PATH@/assets/images/plus-2000x2798.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
@@ -340,6 +342,14 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#2969b0"
+            },
+            ".mbr-section-text": {
+              "color": "#2969b0"
+            }
+          },
           "_anchor": "header2-6",
           "_params": {
             "imageSize": 50,
@@ -385,15 +395,7 @@
           },
           "title": "OVER &nbsp;HET NAIVE KIND",
           "text": "&nbsp;Céline, Het meisje dat &nbsp;alles rozer kleurt dan de realiteit eigenlijk is.<br>Al vijf jaar vertoeft deze studente in de gebouwen van<br> LUCA SCHOOL OF ARTS te Gent.<br>Tekenen is voor haar een manier om al haar emoties te uiten.<br>Beelden zijn een houvast geworden aan de up's &amp;down's . <br>&nbsp;Ze geven een plaats aan de gebeurtenissen <br>van haar alledaagse omgeving.<br>Graag zou ze terug gaan naar de wereld <br>gezien door de ogen van een kind,&nbsp;<br>de wereld zonder zorgen over morgen.<br><br><br>&nbsp; &nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#2969b0"
-            },
-            ".mbr-section-text": {
-              "color": "#2969b0"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_tags": [
@@ -599,6 +601,14 @@
             "Theme"
           ],
           "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            },
+            "STRONG": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "contacts1-p",
           "_params": {
             "paddingTop": 3,
@@ -630,15 +640,7 @@
           },
           "text1": "",
           "text2": "<strong>Contact</strong><br><strong><br></strong>Email: <br>celine.verheyden@student.luca-arts.be<br><br>",
-          "text3": "",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            },
-            "STRONG": {
-              "color": "#ffffff"
-            }
-          }
+          "text3": ""
         }
       ]
     },
@@ -1611,6 +1613,14 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            "SMALL": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "form1-n",
           "_params": {
             "labelsColor": "#232323",
@@ -1656,15 +1666,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACTEER HET NAIVE KIND</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            },
-            "SMALL": {
-              "color": "#000000"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACTEER HET NAIVE KIND</a>"
         },
         {
           "_tags": [
